@@ -1,0 +1,73 @@
+#Gaming {
+    font-weight: bold;
+    font-variant: small-caps;
+    line-height: 1.2;
+}
+
+body {
+    text-align: center;
+    margin: 0;
+    padding-top: 800px;
+}
+
+.icon {
+    width: 250px;
+    margin-bottom: 50px;
+    margin-top: 35px;
+    border-radius: 50%;
+}
+
+#game {
+    position: absolute;
+    overflow: hidden;
+    height: 800px;
+    color: #FFFFFF;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0.87;
+    background: linear-gradient(#cf1314 0%, #ff9d00 100%);
+    width: 100%;
+    height: 100%;
+}
+
+.line {
+    height: 6px;
+    background-color: crimson;
+    width: 70px;`
+    margin: 20px auto;
+}
+
+.parallax-inner {
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#bio {
+    padding: 50px;
+    text-align: center;
+    font-size: 42px;
+
+
+}
+.links {
+    float: left;
+    color: dodgerblue;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: monospace;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.menu {
+    list-style: none;
+    font-family: monospace;
+    position: absolute;
+    top: 0px;
+    right: 50px;
+    z-index: 71789378912789;
+    cursor: grabbing;
